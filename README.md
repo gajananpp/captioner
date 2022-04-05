@@ -63,6 +63,6 @@ This extension is published on chrome web store. Click below to view it in chrom
 
 **Q: Subtitles are slower than audio/video ?**
 <br>
-Adjusting the [`timeslice`](https://github.com/gajananpp/captioner/blob/main/src/content-script/index.tsx#L21) of `AudioRecorder` may reduce the lag between subtitles and audio/video.
 
+Since unlike Youtube's auto-generated captions where captions are generated when video is uploaded, here it can't seek audio blobs beforehand(could be possible by checking n/w requests having `media` type responses) so there is a lag. Lag may get reduced by adjusting the [`timeslice`](https://github.com/gajananpp/captioner/blob/main/src/content-script/index.tsx#L21) of `AudioRecorder`. WIP for reducing lag.
 <br>
