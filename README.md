@@ -41,7 +41,7 @@ This will output extension in dist folder which you can load in your browser by 
 
 
 ## Privacy
-The only external api call this extension makes is to [`wss://api.deepgram.com/v1/listen`](https://developers.deepgram.com/api-reference/#transcription-streaming) passing it the audio blobs from audio source as payload.
+The only external api call this extension makes is to [`wss://api.deepgram.com/v1/listen`](https://developers.deepgram.com/api-reference/#transcription-streaming) passing it the audio blobs from selected audio source as payload.
 
 ## FAQs
 
@@ -61,6 +61,6 @@ This extension is published on chrome web store. Click below to view it in chrom
 
 **Q: Subtitles are slower than audio/video ?**
 <br>
-Adjusting the `timeslice` of `AudioRecorder` may reduce the lag between subtitles and audio/video.
+Adjusting the [`timeslice`](https://github.com/gajananpp/captioner/blob/main/src/content-script/index.tsx#L21) of `AudioRecorder` may reduce the lag between subtitles and audio/video.
 
 <br>
