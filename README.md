@@ -26,6 +26,8 @@ This extension is published on chrome web store.
 
 **This extension will require a Deepgram API key for transcription. Get it from [here](https://console.deepgram.com/signup)**
 
+[Check demo video](https://youtu.be/UEU82AUhW8g)
+
 ## Build from source:
 
 ```bash
