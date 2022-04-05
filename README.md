@@ -53,9 +53,9 @@ This extension will work with chrome and other chromium based browsers like edge
 
 **Q: From where can this extension be installed ?**
 <br>
-This extension is published on chrome web store. Click on below button to view it in chrome web store.
+This extension is published on chrome web store. Click below to view it in chrome web store.
 
-[![Add from Chrome web store](assets/chrome-web-store-btn.png)](https://chrome.google.com/webstore/detail/puppeteer-ide/ilehdekjacappgghkgmmlbhgbnlkgoid)
+[![Add from Chrome web store](src/static/chrome-web-store-btn.png)](https://chrome.google.com/webstore/detail/captioner/ilehdekjacappgghkgmmlbhgbnlkgoid)
 
 <br>
 
