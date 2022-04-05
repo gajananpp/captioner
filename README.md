@@ -13,7 +13,7 @@ Get subtiles/captions for any audio/video being played. Deepgram hackathon submi
 [Privacy](#privacy) •
 [FAQs](#faqs)
 
-<img src="assets/thumbnail.png" alt="Demo PNG" width="640"/>
+<a href="https://youtu.be/UEU82AUhW8g"><img src="assets/thumbnail.png" alt="Demo PNG" width="640"/></a>
 
 </div>
 
