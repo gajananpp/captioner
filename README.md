@@ -5,7 +5,7 @@
 ![lint](https://github.com/gajananpp/captioner/actions/workflows/lint.yml/badge.svg) 
 ![build](https://github.com/gajananpp/captioner/actions/workflows/build.yml/badge.svg) 
 
-Get subtiles/captions for any audio/video being played.
+Get subtiles/captions for any audio/video being played. Deepgram hackathon submission.
 
 [Installation](#installation) •
 [Usage](#usage) •
