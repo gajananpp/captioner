@@ -13,14 +13,14 @@ Get subtiles/captions for any audio/video being played. Deepgram hackathon submi
 [Privacy](#privacy) •
 [FAQs](#faqs)
 
-<img src="src/static/thumbnail.png" alt="Demo PNG" width="640"/>
+<img src="assets/thumbnail.png" alt="Demo PNG" width="640"/>
 
 </div>
 
 ## Installation
 This extension is published on chrome web store.
 
-[![Add from Chrome web store](src/static/chrome-web-store-btn.png)](https://chrome.google.com/webstore/detail/captioner/ilehdekjacappgghkgmmlbhgbnlkgoid)
+[![Add from Chrome web store](assets/chrome-web-store-btn.png)](https://chrome.google.com/webstore/detail/captioner/gjcdikfmiodlggkpnllcjbffjfbhfnnn)
 
 ## Usage
 
@@ -55,7 +55,7 @@ This extension will work with chrome and other chromium based browsers like edge
 <br>
 This extension is published on chrome web store. Click below to view it in chrome web store.
 
-[![Add from Chrome web store](src/static/chrome-web-store-btn.png)](https://chrome.google.com/webstore/detail/captioner/ilehdekjacappgghkgmmlbhgbnlkgoid)
+[![Add from Chrome web store](assets/chrome-web-store-btn.png)](https://chrome.google.com/webstore/detail/captioner/gjcdikfmiodlggkpnllcjbffjfbhfnnn)
 
 <br>
 

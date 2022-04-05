@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Captioner",
     "version": "0.0.1",
-    "description": "Shows captions for any video/audio being played.",
+    "description": "Get subtitles/captions for any video/audio being played.",
     "background": {
         "service_worker": "background.js"
     },
