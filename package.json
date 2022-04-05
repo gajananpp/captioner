@@ -13,11 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "gts lint",
     "clean": "gts clean",
-    "compile": "tsc",
     "fix": "gts fix",
-    "prepare": "npm run compile",
-    "pretest": "npm run compile",
-    "posttest": "npm run lint",
     "build": "webpack --config webpack.config.js",
     "postbuild": "cpx \"src/static/*.{json,html,png}\" dist"
   },
